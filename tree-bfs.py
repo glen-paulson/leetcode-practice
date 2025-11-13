@@ -1,3 +1,8 @@
+# class Node:
+#     def __init__(self, data):
+#     self.data = data
+#     self.children = []
+
 def bfs(root):
     if root is None:
         return
